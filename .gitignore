@@ -1,0 +1,14 @@
+USB_Ex/*/Export/*
+USB_Ex/*/CortexM3/*
+USB_Ex/*/CortexM0/*
+USB_Ex/*/Generated_Source/*
+USB_Ex/*/codegentemp/*
+USB_Ex/*/*.cycdx
+USB_Ex/*/*.cyfit
+USB_Ex/*/*.rpt
+USB_Ex/*/*.svd
+USB_Ex/*/*.html
+*/Export/*
+*/CortexM3/*
+*/Generated_Source/*
+*/codegentemp/*
